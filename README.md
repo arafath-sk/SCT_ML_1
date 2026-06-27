@@ -47,10 +47,5 @@ K-means clustering to group retail store customers based on purchase history.
 
 ---
 
-## 🙋 About Me
-**Intern at SkillCraft Technology**
-Connect with me on [LinkedIn](#) <!-- paste your LinkedIn URL here -->
-
----
-
-⭐ If you found this helpful, feel free to star this repository!
+## 🙋 Author
+Sk Arafath
